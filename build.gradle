@@ -42,7 +42,6 @@ dependencies {
     compile "com.xebialabs.deployit:udm-plugin-api:$apiVersion"
     compile "com.xebialabs.deployit:engine-spi:$apiVersion"
     compile "com.xebialabs.deployit:engine-api:$apiVersion"
-    compile "com.xebialabs.deployit:appserver-core:$apiVersion"
     compile group: 'com.google.guava', name: 'guava', version: '18.0'
 }
 
