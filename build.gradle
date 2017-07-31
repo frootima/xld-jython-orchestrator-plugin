@@ -22,9 +22,6 @@ repositories {
     maven {
         url 'https://dist.xebialabs.com/public/maven2'
     }
-    maven{
-       url 'http://www.knopflerfish.org/maven2'
-    }
 }
 
 dependencies {
